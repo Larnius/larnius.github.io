@@ -1,0 +1,91 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "slug",
+          "name": "slug",
+          "type": "datetime"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "#CSS",
+    "#css",
+    "#html",
+    "100daysofcode",
+    "JavaScript",
+    "blogging",
+    "bug fix",
+    "coding",
+    "css",
+    "flexbox",
+    "forms",
+    "git",
+    "github",
+    "html",
+    "linux",
+    "versioncontrol",
+    "webdesign",
+    "website"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "#html",
+    "Blogging",
+    "Challenge",
+    "Coding",
+    "JavaScript",
+    "Web Development"
+  ]
+}
