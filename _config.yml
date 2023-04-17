@@ -197,3 +197,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+elasticsearch:
+  url: "https://:@my-awesome-cluster-1234.us-east-1.bonsai.io"
+  index_name: jekyll-posts
+
+plugins:
+  - searchyll
