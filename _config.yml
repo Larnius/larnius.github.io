@@ -132,11 +132,12 @@ kramdown:
       start_line: 1
 
 collections:
+  authors:
   tabs:
     output: true
     sort_by: order
 
-defaults:
+defaults: 
   - scope:
       path: "" # An empty string here means all files in the project
       type: posts
