@@ -1,5 +1,5 @@
 ---
-title: Day 32 JavaScript
+title: Day 33 JavaScript
 description: Discovering the console, methods and operators
 date: 2023-04-18T10:04:06.881Z
 preview: ""

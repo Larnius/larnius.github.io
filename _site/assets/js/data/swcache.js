@@ -38,7 +38,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'larnius.github.io',
+    'localhost:4000',
 
     
 

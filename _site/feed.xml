@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://larnius.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>larnius.com</title>
   <subtitle>A blog about learning #HTML #CSS #JavaScript #Python</subtitle>
-  <updated>2023-04-18T11:49:10+00:00</updated>
+  <updated>2023-04-18T11:58:10+00:00</updated>
   <author>
     <name>Andreas</name>
-    <uri>https://larnius.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://larnius.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://larnius.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Andreas </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Day 32 JavaScript</title>
-    <link href="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 32 JavaScript" />
+    <title>Day 33 JavaScript</title>
+    <link href="http://localhost:4000/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 33 JavaScript" />
     <published>2023-04-18T10:04:06+00:00</published>
   
     <updated>2023-04-18T10:04:06+00:00</updated>
   
-    <id>https://larnius.github.io/posts/day-32-javascript-methods-operations-console/</id>
-    <content src="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" />
+    <id>http://localhost:4000/posts/day-32-javascript-methods-operations-console/</id>
+    <content src="http://localhost:4000/posts/day-32-javascript-methods-operations-console/" />
     <author>
       <name>larnius</name>
     </author>
@@ -60,13 +60,13 @@
   
   <entry>
     <title>Day 32 JavaScript</title>
-    <link href="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 32 JavaScript" />
+    <link href="http://localhost:4000/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 32 JavaScript" />
     <published>2023-04-16T21:04:06+00:00</published>
   
     <updated>2023-04-16T21:04:06+00:00</updated>
   
-    <id>https://larnius.github.io/posts/day-32-javascript-methods-operations-console/</id>
-    <content src="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" />
+    <id>http://localhost:4000/posts/day-32-javascript-methods-operations-console/</id>
+    <content src="http://localhost:4000/posts/day-32-javascript-methods-operations-console/" />
     <author>
       <name>larnius</name>
     </author>
@@ -99,13 +99,13 @@
   
   <entry>
     <title>Day 100</title>
-    <link href="https://larnius.github.io/posts/day-100/" rel="alternate" type="text/html" title="Day 100" />
+    <link href="http://localhost:4000/posts/day-100/" rel="alternate" type="text/html" title="Day 100" />
     <published>2023-04-11T19:00:00+00:00</published>
   
     <updated>2023-04-11T19:00:00+00:00</updated>
   
-    <id>https://larnius.github.io/posts/day-100/</id>
-    <content src="https://larnius.github.io/posts/day-100/" />
+    <id>http://localhost:4000/posts/day-100/</id>
+    <content src="http://localhost:4000/posts/day-100/" />
     <author>
       <name>larnius</name>
     </author>
@@ -138,13 +138,13 @@
   
   <entry>
     <title>Day 99</title>
-    <link href="https://larnius.github.io/posts/day-99/" rel="alternate" type="text/html" title="Day 99" />
+    <link href="http://localhost:4000/posts/day-99/" rel="alternate" type="text/html" title="Day 99" />
     <published>2023-04-08T17:56:00+00:00</published>
   
     <updated>2023-04-08T17:56:00+00:00</updated>
   
-    <id>https://larnius.github.io/posts/day-99/</id>
-    <content src="https://larnius.github.io/posts/day-99/" />
+    <id>http://localhost:4000/posts/day-99/</id>
+    <content src="http://localhost:4000/posts/day-99/" />
     <author>
       <name>larnius</name>
     </author>
@@ -175,13 +175,13 @@
   
   <entry>
     <title>Day 98</title>
-    <link href="https://larnius.github.io/posts/day-98/" rel="alternate" type="text/html" title="Day 98" />
+    <link href="http://localhost:4000/posts/day-98/" rel="alternate" type="text/html" title="Day 98" />
     <published>2023-04-06T19:36:00+00:00</published>
   
     <updated>2023-04-06T19:36:00+00:00</updated>
   
-    <id>https://larnius.github.io/posts/day-98/</id>
-    <content src="https://larnius.github.io/posts/day-98/" />
+    <id>http://localhost:4000/posts/day-98/</id>
+    <content src="http://localhost:4000/posts/day-98/" />
     <author>
       <name>larnius</name>
     </author>
