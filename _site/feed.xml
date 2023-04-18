@@ -1,0 +1,216 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://larnius.github.io/</id>
+  <title>larnius.com</title>
+  <subtitle>A blog about learning #HTML #CSS #JavaScript #Python</subtitle>
+  <updated>2023-04-18T11:49:10+00:00</updated>
+  <author>
+    <name>Andreas</name>
+    <uri>https://larnius.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://larnius.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://larnius.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Andreas </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Day 32 JavaScript</title>
+    <link href="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 32 JavaScript" />
+    <published>2023-04-18T10:04:06+00:00</published>
+  
+    <updated>2023-04-18T10:04:06+00:00</updated>
+  
+    <id>https://larnius.github.io/posts/day-32-javascript-methods-operations-console/</id>
+    <content src="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" />
+    <author>
+      <name>larnius</name>
+    </author>
+
+  
+    
+    <category term="Challenge" />
+    
+    <category term="Coding" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+ Author: larnius
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Day 32 JavaScript</title>
+    <link href="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" rel="alternate" type="text/html" title="Day 32 JavaScript" />
+    <published>2023-04-16T21:04:06+00:00</published>
+  
+    <updated>2023-04-16T21:04:06+00:00</updated>
+  
+    <id>https://larnius.github.io/posts/day-32-javascript-methods-operations-console/</id>
+    <content src="https://larnius.github.io/posts/day-32-javascript-methods-operations-console/" />
+    <author>
+      <name>larnius</name>
+    </author>
+
+  
+    
+    <category term="Challenge" />
+    
+    <category term="Coding" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Day 100</title>
+    <link href="https://larnius.github.io/posts/day-100/" rel="alternate" type="text/html" title="Day 100" />
+    <published>2023-04-11T19:00:00+00:00</published>
+  
+    <updated>2023-04-11T19:00:00+00:00</updated>
+  
+    <id>https://larnius.github.io/posts/day-100/</id>
+    <content src="https://larnius.github.io/posts/day-100/" />
+    <author>
+      <name>larnius</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Challenge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Day 99</title>
+    <link href="https://larnius.github.io/posts/day-99/" rel="alternate" type="text/html" title="Day 99" />
+    <published>2023-04-08T17:56:00+00:00</published>
+  
+    <updated>2023-04-08T17:56:00+00:00</updated>
+  
+    <id>https://larnius.github.io/posts/day-99/</id>
+    <content src="https://larnius.github.io/posts/day-99/" />
+    <author>
+      <name>larnius</name>
+    </author>
+
+  
+    
+    <category term="Challenge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Day 98</title>
+    <link href="https://larnius.github.io/posts/day-98/" rel="alternate" type="text/html" title="Day 98" />
+    <published>2023-04-06T19:36:00+00:00</published>
+  
+    <updated>2023-04-06T19:36:00+00:00</updated>
+  
+    <id>https://larnius.github.io/posts/day-98/</id>
+    <content src="https://larnius.github.io/posts/day-98/" />
+    <author>
+      <name>larnius</name>
+    </author>
+
+  
+    
+    <category term="Coding" />
+    
+    <category term="Blogging" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

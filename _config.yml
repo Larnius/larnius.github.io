@@ -13,17 +13,17 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Berlin
+timezone: Germany/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: larnius blog # the main title
+title: larnius.com # the main title
 
-tagline: A blog about the journey of learning how to code # it will display as the sub-title
+tagline: A blog about the journey of learning how to code... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog about learning #HTML #CSS #JavaScript and #Python
+  A blog about learning #HTML #CSS #JavaScript #Python
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://larnius.github.io"
@@ -37,14 +37,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Andreas Geyer
-  email: example@domain.com # change to your email address
+  name: Andreas
+  email: nebeliger.gattung-0y@icloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/larnius # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.mastodontech.de/larnius
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: [dark]
+theme_mode:  [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
