@@ -6,7 +6,6 @@ preview: ""
 tags:
   - "#html"
   - "#javascript"
-  - "#CSS"
 categories:
   - Challenge
   - Coding

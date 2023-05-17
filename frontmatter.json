@@ -61,10 +61,11 @@
     }
   ],
   "frontMatter.taxonomy.tags": [
-    "#CSS",
     "#css",
     "#html",
+    "#javascript",
     "#python",
+    "#swift",
     "100daysofcode",
     "API",
     "JavaScript",
